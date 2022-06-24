@@ -1,0 +1,14 @@
+name: wordprocessing
+dependencies:
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - nltk
+  - scipy
+  - matplotlib
+  - pip:
+    - sklearn
+    - spacy
+    - pympler
+    - wordcloud
